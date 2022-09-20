@@ -1,0 +1,3 @@
+El proyecto esta basado en las parcticas que anteriormente se han realizado. 
+posee una interfaz siilar a la que proporciona bootstrap, sin embargo existen 
+puntos donde se utilizo una interfaz personalizada co ayuda de CSS
